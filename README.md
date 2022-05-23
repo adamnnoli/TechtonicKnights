@@ -11,3 +11,7 @@ trade cards with other players, and buy new card packs for NRCs and NRCs for dol
 The App was implemented using scaffold-eth as a framework, rewriting their smart contract
 and their react code.
 To view the App run yarn chain, then in a new terminal run yarn deploy and then yarn start.
+
+
+This comes from a hackathon I did as part of a group.
+The rest of my group members are Jack French, Spencer Hurst, James Larson, and David Wolfers.
