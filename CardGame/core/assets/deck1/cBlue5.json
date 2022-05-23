@@ -1,0 +1,8 @@
+f{
+  "Values" : {
+    "health": 5,
+    "dmg":2,
+    "elec": 2,
+    "steel": 3
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"textures": {
+        "background": {
+            "file":      "images/ice.png",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+        "photon": {
+            "file":      "images/photon.png",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+        "ship": {
+          "file":      "images/ships.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "target": {
+            "file":      "images/target.png",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+        "card": {
+            "file":      "images/CardBack.jpeg",
+            "minFilter": "linear",
+            "magFilter": "linear"
+        },
+        "r1": {
+          "file":      "images/robot1.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "r2": {
+          "file":      "images/robot2.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "r3": {
+          "file":      "images/robot3.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "r4": {
+          "file":      "images/robot4.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "r5": {
+          "file":      "images/robot5.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "r6": {
+          "file":      "images/robot6.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        },
+        "r7": {
+          "file":      "images/robot7.png",
+          "minFilter": "linear",
+          "magFilter": "linear"
+        }
+    },
+    "deck1": {
+        "bC0": "deck1/cBlue0.json",
+        "bC1": "deck1/cBlue1.json",
+        "bC2": "deck1/cBlue2.json",
+        "bC3": "deck1/cBlue3.json",
+        "bC4": "deck1/cBlue4.json",
+        "bC5": "deck1/cBlue5.json",
+        "bC6": "deck1/cBlue6.json",
+        "bC7": "deck1/cBlue7.json",
+        "bC8": "deck1/cBlue8.json",
+        "bC9": "deck1/cBlue9.json",
+        "bC10": "deck1/cBlue10.json"
+    },
+    "deck2": {
+        "bR0": "deck2/cRed0.json",
+        "bR1": "deck2/cRed1.json",
+        "bR2": "deck2/cRed2.json",
+        "bR3": "deck2/cRed3.json",
+        "bR4": "deck2/cRed4.json",
+        "bR5": "deck2/cRed5.json",
+        "bR6": "deck2/cRed6.json",
+        "bR7": "deck2/cRed7.json",
+        "bR8": "deck2/cRed8.json",
+        "bR9": "deck2/cRed9.json",
+        "bR10": "deck2/cRed10.json"
+    },
+
+  "sounds": {
+        "fusion":  "sounds/fusion.mp3",
+        "laser":   "sounds/laser.mp3",
+        "torpedo": "sounds/torpedo.mp3"
+    }
+}
